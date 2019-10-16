@@ -1,4 +1,13 @@
 R5T.Rugia.Base - A base abstractions library for the codenamed Rugia Windows/non-Windows platform functionality.
 
+Rugia allows explicit expression of the platform on which code is running.
+
+Library checklist:
+
+. Public.
+. No dependencies.
+. Serviced based library for IPlatformOperator, PlatformOperator, and PlatformOperations.
+
+
 Goals
 
